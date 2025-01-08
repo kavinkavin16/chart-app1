@@ -1,5 +1,7 @@
 # ChartApp
 
+https://sparkly-custard-7d77b9.netlify.app/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.
 
 ## Development server
